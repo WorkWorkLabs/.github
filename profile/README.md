@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="/profile/Work-Work_font_logo.png" alt="Work-Work logo" width="384" height="120"></p>
+  <p><img src="/profile/Work-Work_font_logo.png" alt="Work-Work logo" width="768" height="240"></p>
   <p> Learn,Recruit,Exchange. </p>
    <p> Web3 workers' decentralized workplace & job search platform. </p>
   <p>
