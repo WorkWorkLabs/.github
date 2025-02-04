@@ -7,6 +7,6 @@
     <a href="https://work-work.org">Official Website</a>
     ·
     <a href="https://www.linkedin.com/company/105298407/">Linkedin</a>
+
   </p>
 </div>
-
