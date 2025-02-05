@@ -4,9 +4,12 @@
 
    <p> <h2> Web3 workers' decentralized workplace & job search platform.</h2> </p>
   <p>
-    <a href="https://work-work.org">Official Website</a>
+    <a href="https://www.work-work.org">Official Website</a>
     ·
     <a href="https://www.linkedin.com/company/105298407/">Linkedin</a>
+    ·
+    <a href="https://www.t.me/WorkWorkWeb3/">Telegram Group</a>
+
 
   </p>
 </div>
