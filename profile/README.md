@@ -6,9 +6,10 @@
   <p>
     <a href="https://www.work-work.org">Official Website</a>
     ·
-    <a href="https://www.linkedin.com/company/105298407/">Linkedin</a>
-    ·
     <a href="https://www.t.me/WorkWorkWeb3/">Telegram Group</a>
+    ·
+    <a href="https://www.x.com/WorkWorkWeb3/">X</a>
+    
 
 
   </p>
