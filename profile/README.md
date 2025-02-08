@@ -4,7 +4,7 @@
    <p> <h2>Pumping fresh blood into the Web3 industry development.</h2> </p>
    <p> <h3> Web3 workers' decentralized workplace & job search platform.</h3> </p>
   <p>
-    <a href="https://www.work-work.org">Official Website</a>
+    <a href="https://www.work-work.org">Official Website(Build)</a>
     ·
     <a href="https://www.t.me/WorkWorkWeb3/">Telegram Group</a>
     ·
