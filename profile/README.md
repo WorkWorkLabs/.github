@@ -10,7 +10,7 @@
     ·
     <a href="https://www.t.me/WorkWorkWeb3/">Telegram Group</a>
     ·
-    <a href="https://www.x.com/WorkWorkWeb3/">X</a>
+    <a href="https://www.x.com/WorkWorkLabs/">X</a>
     
     
 
